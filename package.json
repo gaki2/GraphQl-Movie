@@ -1,0 +1,7 @@
+{
+  "name": "bentiker",
+  "version": "1.0.0",
+  "description": "GraphQL Movie",
+  "main": "index.js",
+  "repository": "https://github.com/gaki2/GraphQl-Movie"
+}
