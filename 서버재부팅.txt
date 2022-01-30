@@ -1,0 +1,2 @@
+lsof -i TCP:4000
+kill -9 pid
